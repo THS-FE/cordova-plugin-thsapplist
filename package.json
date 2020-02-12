@@ -1,0 +1,25 @@
+{
+  "name": "cn.com.ths.applist",
+  "version": "1.0.0",
+  "description": "获取已安装应用的信息",
+  "cordova": {
+    "id": "cn.com.ths.applist",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THS-FE/cordova-plugin-thsapplist.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "liuyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THS-FE/cordova-plugin-thsapplist/issues"
+  },
+  "homepage": "https://github.com/THS-FE/cordova-plugin-thsapplist#readme"
+}
