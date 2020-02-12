@@ -9,10 +9,10 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="thsapplist">
-                <param name="android-package" value="cn.com.ths.applist" />
+                <param name="android-package" value="cn.com.ths.applist.ThsApplist" />
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-        <source-file src="src/android/ThsApplist.java" target-dir="src/cn/com/ths/applist" />
+        <source-file src="src/android/ThsApplist.java" target-dir="src/cn/com/ths/applist/ThsApplist" />
     </platform>
 </plugin>
